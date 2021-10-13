@@ -285,7 +285,7 @@ msg -bar
 funcao_idioma () {
 msg -bar2
 figlet "    ADMIN VPS" | lolcat
-echo -e "    🇲🇽 HOLA!!! BIENVENIDO A VPS-MX 8.4d 🇲🇽"
+echo -e "    🇲🇽 HOLA!!! BIENVENIDO A ADMIN 8.4d "
 msg -bar2
 pv="$(echo es)"
 [[ ${#id} -gt 2 ]] && id="es" || id="$pv"
