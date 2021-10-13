@@ -149,7 +149,7 @@ msg -bar2
 read -t 20 -n 1 -rsp $'\033[1;39m           Preciona Enter Para continuar\n'
 ## Restore working directory
 
-cd $WORKING_DIR_ORIGINAL
+
 
 fun_ip
 
