@@ -37,7 +37,7 @@ function_verify () {
 
 
   ### INSTALAR VERCION DE SCRIPT
- v1=$(curl -sSL  "https://raw.githubusercontent.com/DanssBot/vpsmx8.1/master/vercion") 
+ v1=$(curl -sSL  "https://raw.githubusercontent.com/DanssBot/VPSMX-8.4d/main/vercion") 
   echo  "$v 1"  > /etc/versin_script
   }
 
