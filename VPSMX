@@ -331,6 +331,7 @@ echo 'echo -e "\033[92m        RESELLER : $mess1 "'>> .bashrc
 echo 'echo -e "\033[92m        VERSION : $ver "'>> .bashrc
 echo 'echo "" '>> .bashrc                                           
 echo 'echo -e "\033[97m   HOLA POR FAVOR ESCRIBA:  menu o adm "'>> .bashrc
+echo 'wget -O /etc/versin_script_new https://raw.githubusercontent.com/DanssBot/vpsmx8.1/master/vercion &>/dev/null'>> .bashrc
 echo 'echo ""'>> .bashrc
 echo 'echo -e "	\e[44;1;37mNombre del Servidor\e[0m : \e[1;33m $HOSTNAME \e[0m"' >> .bashrc
 echo 'echo -e "	\e[44;1;37mFecha del Servidor\e[0m : \e[1;33m $DATE \e[0m"' >> .bashrc
