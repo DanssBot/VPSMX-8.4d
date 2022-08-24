@@ -286,7 +286,7 @@ msg -bar
 funcao_idioma () {
 msg -bar2
 figlet "    ADMIN VPS" | lolcat
-echo -e "    🇲🇽 HOLA!!! BIENVENIDO A ADMIN 8.4d "
+echo -e "    🇲🇽 HOLA!!! BIENVENIDO A ADMIN 8.5d "
 msg -bar2
 pv="$(echo es)"
 [[ ${#id} -gt 2 ]] && id="es" || id="$pv"
@@ -325,7 +325,7 @@ echo 'echo -e "\033[91m   / _ \ | | | | |\/| || ||  \| |  \ \ / /| |_) \___ \  "
 echo 'echo -e "\033[91m  / ___ \| |_| | |  | || || |\  |   \ V / |  __/ ___) |  " '>> .bashrc
 echo 'echo -e "\033[91m /_/   \_\____/|_|  |_|___|_| \_|    \_/  |_|   |____/  " '>> .bashrc
 echo 'echo "" '>> .bashrc
-echo 'echo -e "\033[92m        🔰 HOLA!!! BIENVENIDO 🔰 "'>> .bashrc
+echo 'echo -e "\033[92m        🔰 HOLA!!! BIENVENIDO 👥 🔰 "'>> .bashrc
 echo 'mess1="$(less /etc/newadm/message.txt)" ' >> .bashrc
 echo 'echo "" '>> .bashrc
 echo 'ver="$(cat /etc/versin_script_new)" '>> .bashrc
